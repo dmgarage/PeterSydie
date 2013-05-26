@@ -318,10 +318,11 @@ body {
   padding: 1em 0 0 0;
 }
 #footer p {
-  float: left;
+	text-align: center;
+  /*float: left;*/
 }
 #footer p.alt {
-  float: right;
+  /*float: right;*/
 }
 /*--[ Anchors ]--------------------------------------------------------------------------------*/
 a {
@@ -447,12 +448,14 @@ body {
   text-align: center;
 }
 .header h1 {
-  font-family: 'Lobster', arial, serif;
-  font-size: 3em;
+  /*font-family: 'Arapey', arial, serif;*/
+  font-family: 'Simonetta', cursive;
+  font-size: 4em;
   margin-top: 0;
   font-weight: normal;
 }
 .header h4 {
+  font-family: 'Simonetta', cursive;	
   color: #b3afa0;
   margin: 0;
   text-shadow: 0 1px 5px rgba(255, 255, 255, 0.9);
@@ -887,6 +890,7 @@ img::-moz-selection {
   }
   #footer {
     text-align: center;
+	border: 1px solid red;
   }
   #footer p, #footer p.alt {
     float: none;

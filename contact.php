@@ -1,6 +1,6 @@
 <?php
 
-$send_to = 'you@yourdomain.com';
+$send_to = 'peter@petersydie.com';
 
 /* DO NOT EDIT ANYTHING ELSE UNLESS YOU KNOW WHAT YOU'RE DOING :) */
 
